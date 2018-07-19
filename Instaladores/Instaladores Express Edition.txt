@@ -1,0 +1,15 @@
+============INSTALADORES============
+------------------------------------
+IDEs
+------------------------------------
+Notepad++ [https://notepad-plus-plus.org/download/]
+VsCode [https://code.visualstudio.com/]
+GitHub [https://desktop.github.com/]
+Pycharm [https://www.jetbrains.com/pycharm/]
+Visual Studio [https://visualstudio.microsoft.com/es/vs/community/]
+PL/SQL Developer [Se encuentra en el repositorio en un archivo rar. La contraseña es superhackaton2k18]
+------------------------------------
+Librerías
+------------------------------------
+Python [https://www.python.org/downloads/]
+Oracle [https://www.oracle.com/technetwork/database/enterprise-edition/downloads/oracle12c-windows-3633015.html]
