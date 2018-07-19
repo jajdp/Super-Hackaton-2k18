@@ -7,7 +7,7 @@ VsCode [https://code.visualstudio.com/]
 GitHub [https://desktop.github.com/]
 Pycharm [https://www.jetbrains.com/pycharm/]
 Visual Studio [https://visualstudio.microsoft.com/es/vs/community/]
-PL/SQL Developer [Se encuentra en el repositorio en un archivo rar. La contraseña es superhackaton2k18]
+PL/SQL Developer [https://drive.google.com/file/d/1Mc8q_YbOWOm0QXZeF68Xby9-KfPbCYLM/view?usp=sharing -->La contraseña es superhackaton2k18]
 ------------------------------------
 Librerías
 ------------------------------------
